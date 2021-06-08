@@ -1,12 +1,12 @@
-[submodule "lib\\hzzp\\"]
-	path = lib\\hzzp\\
-	url = https://github.com/truemedian/hzzp
-[submodule "lib\\zCord\\"]
-	path = lib\\zCord\\
+[submodule "lib/zCord"]
+	path = lib/zCord
 	url = https://github.com/fengb/zCord
-[submodule "lib\\iguanaTLS\\"]
-	path = lib\\iguanaTLS\\
+[submodule "lib/iguanaTLS"]
+	path = lib/iguanaTLS
 	url = https://github.com/alexnask/iguanaTLS
-[submodule "lib\\wz\\"]
-	path = lib\\wz\\
+[submodule "lib/hzzp"]
+	path = lib/hzzp
+	url = https://github.com/truemedian/hzzp
+[submodule "lib/wz"]
+	path = lib/wz
 	url = https://github.com/truemedian/wz
